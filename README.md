@@ -35,8 +35,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 훠궈  
 ├── README.md
 ├── [비어플3조] 이상거래.pdf
-├── data  
-│    └───creditcard.csv
 │          
 └── code
      ├───이상거래탐지_EDA.ipynb
