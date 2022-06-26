@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 📌 Structure
 ```python
-훠궈  
+이상거래탐지
 ├── README.md
 ├── [비어플3조] 이상거래.pdf
 │          
